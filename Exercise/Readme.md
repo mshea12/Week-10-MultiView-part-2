@@ -7,22 +7,19 @@
     
     
 <ul>
-    <li>
-        Add legends to it.
-    </li>
 <li>
-    One of species only.
+    Change the visualization to show only one of the species.
 <il>
-X Axis = culmen_length_mm
+Modify X Axis = culmen_length_mm (consider the xScale function)
 </il>
 <li>
-    Y Axis = culmen_depth_mm
+   Modify Y Axis = culmen_depth_mm (consider the yScale function)
 </li>
     <li>
-        (size of the circle - radius) to be flipper_length_mm
+    Set size of the circle (radius) to be flipper_length_mm (consider the Scale function for the radius)
     </li>
 <li>
-Color scale it by the island column.
+     Color scale it by the island column.
 </li>
 </ul>
 </li>
